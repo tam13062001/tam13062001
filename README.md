@@ -8,42 +8,32 @@
 
 <h3 align="left"><b>What I'm doing:</b></h3>
 
-- 🌁 I’m graduated from **FPTU University (Hanoi)**
+- 🌁 I am a final year student at FPT University (HoChiMinh)**
 
-- 🌱 I’m currently learning: **PHP, Nodejs, Python, Java and Web Development!**
+- 🌱 I’m currently learning: **Nodejs, Java and Web Development!**
 
-- 📫 How to reach me: **huyhoang200901@gmail.com**
+- 📫 How to reach me: **tamdoan13062001@gmail.com**
 
-- ⚡ What I like to do: **Football (Cules), Games**
+- ⚡ What I like to do: **Movie, Games**
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-ho%C3%A0ng-nguy%E1%BB%85n-cao-759b691b5/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/antoineguyen_09)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyhoang200901@gmail.com)
-[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://hackmd.io/@antoinenguyen09)
-[![image](https://img.shields.io/badge/Facebook-2596be?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoinenguyen09)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamdoan13062001@gmail.com)
+[![image](https://img.shields.io/badge/Facebook-2596be?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/doanxuanthientam)
 </div>
 
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.php.net/docs.php" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
+
   <a href="https://nodejs.org/en/docs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
+  
   <a href="https://docs.oracle.com/en/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   </a>
